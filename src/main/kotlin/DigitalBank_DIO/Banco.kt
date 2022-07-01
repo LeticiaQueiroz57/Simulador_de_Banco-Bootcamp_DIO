@@ -1,0 +1,6 @@
+package DigitalBank_DIO
+
+data class Banco(
+    val nome: String,
+    val numero: Int
+    )
